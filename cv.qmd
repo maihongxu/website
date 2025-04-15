@@ -1,0 +1,130 @@
+---
+title: "Curriculum Vitae"
+---
+
+::: {.container .page-transition}
+# Curriculum Vitae
+
+<a href="files/Maihong_Xu_CV.pdf" class="btn btn-primary" download><i class="bi bi-download me-2"></i>Download CV (PDF)</a>
+
+## Education
+
+::: {.timeline}
+::: {.timeline-item}
+<div class="timeline-date">May 2024 - May 2025</div>
+<div class="timeline-title">MS in Business Analytics</div>
+**Boston University**  
+GPA: 3.46/4.0
+
+**Relevant Courses:** 
+- Business Analytics Foundations
+- Operations Management
+- Financial Concepts
+- Quantitative and Qualitative Decision Making
+- Enterprise Risk Analytics
+- Marketing Analytics
+- Strategic Management
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Aug 2019 - Aug 2023</div>
+<div class="timeline-title">Bachelor in Hospitality, Retail & Sport Management & Economics</div>
+**University of South Carolina & Boston University**  
+GPA: 3.93/4.0
+
+**Relevant Courses:**
+- Microeconomics
+- Macroeconomics
+- Industrial Organization
+- Development Economics
+- International Economics
+- Labor Economics
+- International Trade
+:::
+:::
+
+## Professional Experience
+
+::: {.timeline}
+::: {.timeline-item}
+<div class="timeline-date">Aug 2022 - Aug 2024</div>
+<div class="timeline-title">Entrepreneur | Online Beauty Shop</div>
+
+- **Market Research & Customer Targeting:** Conducted strategic market research leveraging NLP (BERT model) to analyze 1,000+ competitor reviews, identifying consumer trends and enabling targeted campaigns that generated ¥50k in sales within the first month with a 15% click-through rate.
+- **Operational Efficiency & Forecasting:** Implemented inventory forecasting strategies using the Prophet model, reducing forecast errors from 30% to 12%, increasing inventory turnover by 40%, and driving monthly orders to over 150+.
+- **Customer Segmentation & Retention:** Applied RFM segmentation to personalize marketing campaigns, boosting repeat purchase rates from 18% to 42% and increasing customer lifetime value by 50%, demonstrating customer journey mapping capabilities.
+- **Supply Chain Optimization:** Streamlined procurement and logistics processes, cutting shipping costs by 25% and procurement expenses by 15%, enhancing overall operational efficiency, achieving operational excellence through process digitization.
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">May 2022 - Aug 2022</div>
+<div class="timeline-title">Digital Marketing Specialist | Beijing Radio Cultural Transmission Co., Ltd</div>
+
+- **Strategic Digital Campaigns:** Leveraged Python RFM+chaining with K-means clustering to segment 500K+ fans, identifying high-value groups contributing 65% of historical engagement.
+- **Audience Insights & Engagement:** Deployed Weibo/Douyin SEO tactics including trending topic hijacking (12 hashtags) and long-tail keyword optimization, boosting organic reach by 40% through algorithmic content optimization.
+- **Automation & Reporting Optimization:** Developed Python ETL pipelines automating data collection from Weibo/Douyin APIs and performance tracking, reducing reporting time by 65% and enhancing data accuracy.
+- **High-Impact Marketing Results:** Secured #22 Weibo & #20 Douyin hot search rankings through strategic KOL partnerships and algorithmic content optimization. Increased retention by 25% via personalized AR filters and post-campaign discounts demonstrating customer-centric innovation.
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">May 2022 - Aug 2022</div>
+<div class="timeline-title">Social Activities Coordinator | Bridging Hope Charity Foundation</div>
+
+- **Community Mental Health Programs:** Designed and executed art-based mental health initiatives for 200+ children across 20+ communities, with 80% of participants reporting improved emotional resilience-directly benefiting 500+ families.
+- **Volunteer Leadership & Coordination:** Managed and trained 30 volunteers, implementing efficiency optimizations that improved program execution by 40%.
+- **Program Logistics & Impact Assessment:** Orchestrated large-scale community events, integrating real-time feedback mechanisms to achieve a 95% participant satisfaction rate.
+- **Stakeholder Collaboration:** Partnered with scholars and mental health professionals to design the "Art Communication" curriculum, enhancing engagement by 35% and expanding program reach.
+:::
+:::
+
+## Project Experience
+
+::: {.timeline}
+::: {.timeline-item}
+<div class="timeline-date">Sep 2024 - Dec 2024</div>
+<div class="timeline-title">LobsterLand Fantasy Winter Carnival</div>
+
+- **Revenue Analysis & Business Strategy:** Analyzed 100K+ transaction records using SQL and Tableau, identifying food category as top revenue drivers and optimizing pricing strategies to increase projected revenue by ¥50K.
+- **Supplier Ecosystem Optimization:** Analyzed supplier performance using "reputation-revenue" correlation by boxplots/scatterplots, enhancing profit-sharing models and improving supplier exposure resulting in $50K incremental revenue.
+- **Customer Engagement & Digitalization:** Built a logistic regression model (85% accuracy) to predict visitor preferences, leading to a 20% increase in customer satisfaction through data-driven engagement strategies.
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">Jan 2024 - May 2024</div>
+<div class="timeline-title">AR-Assisted Solution for Alzheimer's Patients</div>
+
+- **AI Performance Enhancement:** Led agile development through bi-weekly sprints, leveraging the Meta framework to improve AI facial recognition accuracy by 23% (75% - 92%) while reducing hardware costs by 40%.
+- **Revenue Model & Cost Efficiency:** Architected a hybrid B2C/B2B pricing model (Basic/Premium + bulk discounts), validated via Business Model Canvas workshops, and reduced customer acquisition costs by 20% through strategic insurer partnerships.
+- **Regulatory Compliance & Risk Management:** Ensured HIPAA compliance and FDA pre-certification, implementing a flexible pre-sale inventory model to mitigate operational risks and accelerate time-to-market.
+:::
+:::
+
+## Skills
+
+### Technical
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- R (Tidyverse, Caret)
+- VBA
+- Tableau (Certified)
+- Power BI
+- AWS QuickSight
+- NLP
+
+### Consulting & Business
+- CLV Modeling
+- A/B Testing
+- Digital Transformation
+- Agile Optimization
+- DCF/ROI Analysis (Business Model Canvas)
+
+### Languages
+- English (Fluent; full professional proficiency)
+- Mandarin (Native)
+
+## Contact Information
+
+- **Phone:** +1 8034301013 / +86 1369139718
+- **Email:** xuxiaozha11@gmail.com
+
+:::

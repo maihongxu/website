@@ -1,0 +1,185 @@
+---
+title: "Projects"
+---
+
+::: {.container .page-transition}
+# My Projects
+
+Here are some of my key projects that showcase my analytical capabilities and business acumen:
+
+## Professional Projects
+
+::: {.card .mb-5 .featured-project}
+::: {.card-body}
+### Online Beauty Shop Entrepreneurship
+<span class="badge bg-primary">Aug 2022 - Aug 2024</span>
+
+::: {.row}
+::: {.col-md-12}
+#### Key Achievements:
+
+- Conducted strategic market research using NLP (BERT model) to analyze 1,000+ competitor reviews
+- Identified consumer trends enabling targeted campaigns that generated ¥50k in sales within the first month
+- Implemented inventory forecasting strategies using the Prophet model, reducing forecast errors from 30% to 12%
+- Applied RFM segmentation to personalize marketing campaigns, boosting repeat purchase rates from 18% to 42%
+- Streamlined procurement and logistics processes, cutting shipping costs by 25% and procurement expenses by 15%
+
+#### Technologies Used:
+<span class="skill-tag">Python</span>
+<span class="skill-tag">NLP</span>
+<span class="skill-tag">Prophet Model</span>
+<span class="skill-tag">RFM Segmentation</span>
+<span class="skill-tag">Supply Chain Optimization</span>
+:::
+:::
+:::
+:::
+
+::: {.card .mb-5}
+::: {.card-body}
+### Digital Marketing Specialist | Beijing Radio Cultural Transmission Co., Ltd
+<span class="badge bg-primary">May 2022 - Aug 2022</span>
+
+::: {.row}
+::: {.col-md-12}
+#### Key Achievements:
+
+- Leveraged Python RFM + K-means clustering to segment 500K+ fans, identifying high-value groups contributing 65% of historical engagement
+- Deployed Weibo/Douyin SEO tactics including trending topic hijacking and long-tail keyword optimization, boosting organic reach by 40%
+- Developed Python ETL pipelines automating data collection from Weibo/Douyin APIs, reducing reporting time by 65%
+- Secured #22 Weibo & #20 Douyin hot search rankings through strategic KOL partnerships
+- Increased retention by 25% via personalized AR filters and post-campaign discounts
+
+#### Technologies Used:
+<span class="skill-tag">Python</span>
+<span class="skill-tag">K-means Clustering</span>
+<span class="skill-tag">RFM Analysis</span>
+<span class="skill-tag">SEO</span>
+<span class="skill-tag">ETL Pipelines</span>
+<span class="skill-tag">API Integration</span>
+:::
+:::
+:::
+:::
+
+## Academic Projects
+
+::: {.card .mb-5}
+::: {.card-body}
+### LobsterLand Fantasy Winter Carnival
+<span class="badge bg-primary">Sep 2024 - Dec 2024</span>
+
+::: {.row}
+::: {.col-md-12}
+#### Project Overview:
+
+- Analyzed 100K+ transaction records using SQL and Tableau, identifying food category as top revenue drivers
+- Optimized pricing strategies to increase projected revenue by ¥50K
+- Analyzed supplier performance using "reputation-revenue" correlation with boxplots/scatterplots
+- Enhanced profit-sharing models and improved supplier exposure resulting in $50K incremental revenue
+- Built a logistic regression model (85% accuracy) to predict visitor preferences, leading to a 20% increase in customer satisfaction
+
+#### Technologies Used:
+<span class="skill-tag">SQL</span>
+<span class="skill-tag">Tableau</span>
+<span class="skill-tag">Logistic Regression</span>
+<span class="skill-tag">Data Visualization</span>
+<span class="skill-tag">Business Strategy</span>
+:::
+:::
+:::
+:::
+
+::: {.card .mb-5}
+::: {.card-body}
+### AR-Assisted Solution for Alzheimer's Patients
+<span class="badge bg-primary">Jan 2024 - May 2024</span>
+
+::: {.row}
+::: {.col-md-12}
+#### Project Overview:
+
+- Led agile development through bi-weekly sprints, leveraging the Meta framework to improve AI facial recognition accuracy by 23%
+- Reduced hardware costs by 40% while increasing recognition accuracy from 75% to 92%
+- Architected a hybrid B2C/B2B pricing model (Basic/Premium + bulk discounts), validated via Business Model Canvas workshops
+- Reduced customer acquisition costs by 20% through strategic insurer partnerships
+- Ensured HIPAA compliance and FDA pre-certification, implementing a flexible pre-sale inventory model to mitigate operational risks
+
+#### Technologies Used:
+<span class="skill-tag">AI</span>
+<span class="skill-tag">AR</span>
+<span class="skill-tag">Agile Methodology</span>
+<span class="skill-tag">Business Model Canvas</span>
+<span class="skill-tag">Regulatory Compliance</span>
+:::
+:::
+:::
+:::
+
+## Course Projects
+
+::: {.card .mb-5}
+::: {.card-body}
+### Insight from Data and Visualizations
+<span class="badge bg-primary">Apr 2025</span>
+
+::: {.row}
+::: {.col-md-12}
+#### Project Overview:
+
+- Processed the Lightcast dataset using **PySpark** and converted it into **Pandas** DataFrames for advanced plotting
+- Created interactive **scatter plots** and **histograms** using Plotly to analyze:
+  - Salary distribution by education level (Bachelor’s or lower vs. Master’s/PhD)
+  - Remote work categories (Remote, Onsite, Hybrid)
+- Applied group-based median imputation to handle missing salary values
+- Produced salary insights by cross-segmenting **experience**, **education**, and **work location**
+- Embedded written insights within each chart to guide interpretation
+
+#### Technologies Used:
+<span class="skill-tag">PySpark</span>
+<span class="skill-tag">Pandas</span>
+<span class="skill-tag">Plotly</span>
+<span class="skill-tag">Data Imputation</span>
+<span class="skill-tag">Data Visualization</span>
+
+---
+
+#### 📊 Visualizations by Education Level
+
+**Histogram – Bachelor’s or Lower**
+<iframe src="files/q1_histogram_bachelors_or_lower.html" width="100%" height="600" frameborder="0"></iframe>
+
+**Histogram – Master’s or PhD**
+<iframe src="files/q1_histogram_masters_or_phd.html" width="100%" height="600" frameborder="0"></iframe>
+
+**Scatter Plot – Bachelor’s or Lower**
+<iframe src="files/q1_scatter_bachelors_or_lower.html" width="100%" height="600" frameborder="0"></iframe>
+
+**Scatter Plot – Master’s or PhD**
+<iframe src="files/q1_scatter_masters_or_phd.html" width="100%" height="600" frameborder="0"></iframe>
+
+---
+
+#### 🏢 Visualizations by Work Setting
+
+**Histogram – Hybrid**
+<iframe src="files/q2_histogram_hybrid.html" width="100%" height="600" frameborder="0"></iframe>
+
+**Histogram – Onsite**
+<iframe src="files/q2_histogram_onsite.html" width="100%" height="600" frameborder="0"></iframe>
+
+**Histogram – Remote**
+<iframe src="files/q2_histogram_remote.html" width="100%" height="600" frameborder="0"></iframe>
+
+**Scatter Plot – Hybrid**
+<iframe src="files/q2_scatter_hybrid.html" width="100%" height="600" frameborder="0"></iframe>
+
+**Scatter Plot – Onsite**
+<iframe src="files/q2_scatter_onsite.html" width="100%" height="600" frameborder="0"></iframe>
+
+**Scatter Plot – Remote**
+<iframe src="files/q2_scatter_remote.html" width="100%" height="600" frameborder="0"></iframe>
+:::
+:::
+:::
+:::

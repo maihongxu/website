@@ -1,0 +1,60 @@
+---
+title: "Maihong Xu"
+subtitle: "Data Analytics Professional"
+page-layout: custom
+---
+
+::: {.hero .text-center}
+# Welcome to My Portfolio
+
+I'm a business analytics professional with experience in data-driven decision making, customer segmentation, and digital marketing optimization.
+
+[Learn more about me](/about.qmd){.btn .btn-light .btn-lg .mt-3}
+:::
+
+::: {.container .page-transition}
+::: {.row .mt-5}
+::: {.col-md-4}
+### About Me
+
+Business Analytics graduate with entrepreneurial experience and a strong foundation in economics. I leverage data to drive strategic decisions and optimize business operations.
+
+[Read more](/about.qmd){.btn .btn-primary .mt-2}
+:::
+
+::: {.col-md-4}
+### My Projects
+
+Explore my portfolio of projects spanning revenue analysis, customer segmentation, digital marketing optimization, and AR-assisted solutions.
+
+[View projects](/projects.qmd){.btn .btn-primary .mt-2}
+:::
+
+::: {.col-md-4}
+### Get in Touch
+
+Looking for a data-driven professional? Let's connect and discuss how I can contribute to your organization's goals.
+
+[Contact me](/contact.qmd){.btn .btn-primary .mt-2}
+:::
+:::
+
+::: {.row .mt-5}
+::: {.col-12}
+## Featured Skills
+
+::: {.d-flex .flex-wrap .justify-content-center .mt-4}
+<span class="skill-tag">Python</span>
+<span class="skill-tag">SQL</span>
+<span class="skill-tag">R</span>
+<span class="skill-tag">Tableau</span>
+<span class="skill-tag">Power BI</span>
+<span class="skill-tag">Data Analysis</span>
+<span class="skill-tag">Customer Segmentation</span>
+<span class="skill-tag">NLP</span>
+<span class="skill-tag">Digital Marketing</span>
+<span class="skill-tag">Business Strategy</span>
+:::
+:::
+:::
+:::

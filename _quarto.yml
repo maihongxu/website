@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Maihong Xu"
+  favicon: images/favicon.png
+  page-footer:
+    center: "© 2025 Maihong Xu"
+    background: "#1E293B"
+    foreground: "#FFFFFF"
+  navbar:
+    background: "#1E293B"
+    foreground: "#FFFFFF"
+    left:
+      - text: "About Me"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/maihongxu
+
+format:
+  html:
+    theme: [lux, styles.css]
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-newwindow: true
+    citations-hover: true
+    footnotes-hover: true
+    page-layout: full
+    code-link: true
+    anchor-sections: true
+    code-fold: show
+    code-tools: false
+    code-block-bg: true
+    highlight-style: github

@@ -1,0 +1,135 @@
+---
+title: "About Me"
+---
+
+::: {.hero .text-center}
+# Maihong Xu
+## Data Analytics Professional
+:::
+
+
+::: {.col-md-8}
+## Hello, I'm Maihong
+
+I'm a Business Analytics professional with a passion for transforming complex data into actionable insights. With my foundation in Economics and hands-on entrepreneurial experience, I bridge the gap between analytical thinking and practical business solutions.
+
+My journey through data science began during my undergraduate studies when I discovered how powerful analytical tools could transform business decision-making. This fascination led me to pursue my MS in Business Analytics at Boston University, where I've been expanding my technical toolkit while developing strategic business acumen.
+
+What drives me is the challenge of finding the story behind the numbers and creating value from seemingly disparate data points. Whether it's optimizing marketing campaigns, streamlining supply chains, or enhancing customer experiences, I find fulfillment in delivering data-driven solutions that make a tangible impact.
+:::
+
+## My Professional Journey
+
+::: {.timeline}
+::: {.timeline-item}
+<div class="timeline-date">2022-2024</div>
+<div class="timeline-title">The Entrepreneur</div>
+
+My entrepreneurial venture with an online beauty shop taught me the real-world application of data science. From implementing NLP models to analyze competitor reviews to designing RFM segmentation strategies that boosted customer retention, I experienced firsthand how analytics drives business growth. This journey shaped my understanding of the full business lifecycle and cemented my belief in data-driven decision making.
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2022</div>
+<div class="timeline-title">The Digital Marketer</div>
+
+At Beijing Radio Cultural Transmission, I discovered my passion for digital audience engagement. By developing Python ETL pipelines and implementing clustering algorithms to segment 500K+ fans, I learned to translate raw engagement metrics into strategic marketing decisions. Seeing our hashtags climb to top rankings on Weibo and Douyin validated the power of data-backed content strategies.
+:::
+
+::: {.timeline-item}
+<div class="timeline-date">2022</div>
+<div class="timeline-title">The Community Builder</div>
+
+My work with the Bridging Hope Charity Foundation revealed the human impact of organizational effectiveness. Leading mental health initiatives across communities showed me that solid program management and feedback mechanisms directly enhance human wellbeing. This experience reinforced my commitment to pursuing analytics work that ultimately improves people's lives.
+:::
+:::
+
+## What I Bring to the Table
+
+::: {.row .mt-5}
+::: {.col-md-4}
+### Technical Expertise
+I combine strong analytical skills with business acumen, leveraging Python, SQL, R, and visualization tools to extract meaningful insights. My approach focuses on creating reproducible, scalable solutions that drive continuous improvement.
+
+::: {.d-flex .flex-wrap .mt-3}
+<span class="skill-tag">Python</span>
+<span class="skill-tag">SQL</span>
+<span class="skill-tag">R</span>
+<span class="skill-tag">Tableau</span>
+<span class="skill-tag">Power BI</span>
+<span class="skill-tag">NLP</span>
+:::
+:::
+
+::: {.col-md-4}
+### Business Perspective
+My economics background and entrepreneurial experience give me a unique perspective on analytics problems. I don't just see numbers—I see opportunities for growth, efficiency, and competitive advantage. This business context shapes how I approach every analytical challenge.
+
+::: {.d-flex .flex-wrap .mt-3}
+<span class="skill-tag">Customer Segmentation</span>
+<span class="skill-tag">Market Research</span>
+<span class="skill-tag">Supply Chain Optimization</span>
+<span class="skill-tag">ROI Analysis</span>
+:::
+:::
+
+::: {.col-md-4}
+### Communication & Collaboration
+Data insights are only valuable when they can be understood and implemented. I pride myself on translating complex findings into clear, actionable recommendations, and collaborating effectively with cross-functional teams to drive implementation.
+
+::: {.d-flex .flex-wrap .mt-3}
+<span class="skill-tag">Data Storytelling</span>
+<span class="skill-tag">Stakeholder Management</span>
+<span class="skill-tag">Cross-functional Collaboration</span>
+:::
+:::
+:::
+
+## Personal Interests
+
+Beyond my professional pursuits, I'm passionate about several areas that keep me inspired and balanced:
+
+::: {.row .mt-4}
+::: {.col-md-4 .mb-4}
+::: {.card .h-100}
+::: {.card-body .text-center}
+<i class="bi bi-book fs-1 text-primary"></i>
+
+### Behavioral Economics
+
+I'm fascinated by the intersection of psychology and economics. Understanding how humans make decisions—often irrationally—helps me design more effective data models and business strategies.
+:::
+:::
+:::
+
+::: {.col-md-4 .mb-4}
+::: {.card .h-100}
+::: {.card-body .text-center}
+<i class="bi bi-camera fs-1 text-primary"></i>
+
+### Photography
+
+Photography teaches me to look at the world from different perspectives. Whether capturing street scenes in Boston or landscapes during my travels, I find it sharpens my observational skills and attention to detail.
+:::
+:::
+:::
+
+::: {.col-md-4 .mb-4}
+::: {.card .h-100}
+::: {.card-body .text-center}
+<i class="bi bi-globe2 fs-1 text-primary"></i>
+
+### Cultural Exploration
+
+Growing up bilingual and having experienced education in both China and the US has fueled my interest in cross-cultural communication. I enjoy exploring how different societies approach problem-solving and innovation.
+:::
+:::
+:::
+:::
+
+## Looking Forward
+
+My career goal is to lead data analytics initiatives that drive business transformation while creating positive social impact. I'm particularly interested in opportunities where I can apply my analytical expertise to enhance customer experiences, optimize operations, or develop innovative products.
+
+I believe that the most exciting opportunities lie at the intersection of data science, human psychology, and business strategy—and I'm constantly expanding my skills to navigate this evolving landscape.
+
+Whether you're looking for a collaborator on a data project, seeking analytical insights for your business, or just want to connect with a fellow data enthusiast, I'd love to hear from you. Feel free to [reach out](/contact.qmd) and let's start a conversation!

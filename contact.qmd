@@ -1,0 +1,95 @@
+---
+title: "Contact"
+---
+
+::: {.container .page-transition}
+# Get in Touch
+
+I'm always open to discussing new opportunities, collaborations, or just connecting with fellow data enthusiasts.
+
+::: {.row .mt-5}
+::: {.col-lg-6}
+## Contact Information
+
+::: {.d-flex .align-items-center .mb-3}
+<i class="bi bi-envelope fs-4 me-3 text-primary"></i>
+**Email:** [xuxiaozha11@gmail.com](mailto:xuxiaozha11@gmail.com)
+:::
+
+::: {.d-flex .align-items-center .mb-3}
+<i class="bi bi-telephone fs-4 me-3 text-primary"></i>
+**Phone:** +1 8034301013 / +86 1369139718
+:::
+
+::: {.d-flex .align-items-center .mb-3}
+<i class="bi bi-github fs-4 me-3 text-primary"></i>
+**GitHub:** [View my repositories](https://github.com/maihongxu)
+:::
+
+## Best Ways to Reach Me
+
+I typically respond to emails within 24 hours. For urgent matters, please feel free to call or text me. I'm currently based in Boston and available for virtual meetings or in-person meetings in the Boston area.
+
+:::
+
+::: {.col-lg-6}
+## Send Me a Message
+
+```{=html}
+<form class="needs-validation" novalidate>
+  <div class="mb-3">
+    <label for="name" class="form-label">Name</label>
+    <input type="text" class="form-control" id="name" placeholder="Your name" required>
+    <div class="invalid-feedback">
+      Please provide your name.
+    </div>
+  </div>
+  
+  <div class="mb-3">
+    <label for="email" class="form-label">Email</label>
+    <input type="email" class="form-control" id="email" placeholder="your.email@example.com" required>
+    <div class="invalid-feedback">
+      Please provide a valid email address.
+    </div>
+  </div>
+  
+  <div class="mb-3">
+    <label for="subject" class="form-label">Subject</label>
+    <input type="text" class="form-control" id="subject" placeholder="What's this regarding?">
+  </div>
+  
+  <div class="mb-3">
+    <label for="message" class="form-label">Message</label>
+    <textarea class="form-control" id="message" rows="5" placeholder="Your message" required></textarea>
+    <div class="invalid-feedback">
+      Please enter your message.
+    </div>
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Send Message</button>
+</form>
+
+<script>
+  // Example starter JavaScript for disabling form submissions if there are invalid fields
+  (function() {
+    'use strict';
+    window.addEventListener('load', function() {
+      // Fetch all the forms we want to apply custom Bootstrap validation styles to
+      var forms = document.getElementsByClassName('needs-validation');
+      // Loop over them and prevent submission
+      var validation = Array.prototype.filter.call(forms, function(form) {
+        form.addEventListener('submit', function(event) {
+          if (form.checkValidity() === false) {
+            event.preventDefault();
+            event.stopPropagation();
+          }
+          form.classList.add('was-validated');
+        }, false);
+      });
+    }, false);
+  })();
+</script>
+```
+
+:::
+:::
